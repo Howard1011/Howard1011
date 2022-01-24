@@ -23,11 +23,11 @@ I played band when I was in high school, and I'm the vocal of the band.<br>
 ![Image](https://github.com/Howard1011/Howard1011/raw/main/band.JPG)
 
 I went to Japan with my classmates when I was 17 years old.<br>
-That was a great trip.✈️
+That was a great trip.✈️<br>
 ![Image](https://github.com/Howard1011/Howard1011/blob/main/jp.JPG)
 
-During the epidemic I started to learn how to play the guitar, and I joined the guitar club after I go to college. 🎸
+During the epidemic I started to learn how to play the guitar, and I joined the guitar club after I go to college. 🎸<br>
 ![Image](https://github.com/Howard1011/Howard1011/blob/main/guitar.JPG)
 
-Occasionally I use my spare time to record some clips of playing guitar and singing and upload them to my instagram.
+Occasionally I use my spare time to record some clips of playing guitar and singing and upload them to my instagram.<br>
 ![Image](https://github.com/Howard1011/Howard1011/blob/main/ig1.jpg)
