@@ -20,7 +20,7 @@ Because of my love for Japanese anime, I hope to learn Japanese well in the new 
 
 ## 🧠 Things I want to share
 I played band when I was in high school, and I'm the vocal of the band.🎤<br>
-
+https://github.com/Howard1011/Howard1011/raw/main/band.JPG
 
 ### 📚 Langues and Frameworks
 - HTML5
