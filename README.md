@@ -30,4 +30,4 @@ During the epidemic I started to learn how to play the guitar, and I joined the 
 ![Image](https://github.com/Howard1011/Howard1011/blob/main/guitar.JPG)
 
 Occasionally I use my spare time to record some clips of playing guitar and singing and upload them to my instagram.
-![Image](https://github.com/Howard1011/Howard1011/blob/main/jp.JPG)
+![Image](https://github.com/Howard1011/Howard1011/blob/main/ig.jpg)
