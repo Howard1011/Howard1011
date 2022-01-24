@@ -1,26 +1,27 @@
-- 👋 Hi, I’m @Howard1011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Howard1011/Howard1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Howard Hu
 
-Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Hi, I'm Howard! 👋<br>
+A normal student who is currently majoring in Electrical Engineering(https://www.dece.nctu.edu.tw/).🖥<br>
+My dream is to earn a lot of money and travel around the world.😸<br>
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2020
+## 🤓 My Hobby
+Playing piano and guitar🎵<br>
+Singing 🎤<br>
+Playing table tennis🏓<br><br>
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
+## 🔭 Goals of 2022
 
-## 🧠 That I know and use
+Because of my love for Japanese anime, I hope to learn Japanese well in the new year, and my goal is to be able to roughly understand the content of the anime without subtitles💪.
+
+## 🧠 Things I want to share
+I played band when I was in high school, and I'm the vocal of the band.🎤<br>
+
+
 ### 📚 Langues and Frameworks
 - HTML5
 - CSS3, SCSS, SASS
